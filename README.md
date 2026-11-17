@@ -5,7 +5,7 @@
 I architect and modernize enterprise applications across **Aviation, Insurance, Education, Defense, Healthcare, and Finance**. With over 20 years of experience, I focus on leading technical teams and designing scalable, secure systems.
 
 ### 🛠️ Tech Stack
-- **Backend:** C#, .NET Core / .NET 8, ASP.NET Core, Web API, Entity Framework Core, WCF
+- **Backend:** C#, .NET Core / .NET 9, ASP.NET Core, Web API, Entity Framework Core, WCF
 - **Frontend:** React, Angular, Redux, JavaScript, TypeScript, HTML5, Bootstrap
 - **Cloud & DevOps:** Azure (App Services, Functions, SQL, Service Bus), Docker, CI/CD (Azure DevOps), Kubernetes (fundamentals)
 - **Data & Messaging:** SQL Server, Oracle, MongoDB, Redis, RabbitMQ
