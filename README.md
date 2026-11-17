@@ -9,7 +9,7 @@ I architect and modernize enterprise applications across **Aviation, Insurance, 
 - **Frontend:** React, Angular, Redux, JavaScript, TypeScript, HTML5, Bootstrap
 - **Cloud & DevOps:** Azure (App Services, Functions, SQL, Service Bus), Docker, CI/CD (Azure DevOps), Kubernetes (fundamentals)
 - **Data & Messaging:** SQL Server, Oracle, MongoDB, Redis, RabbitMQ
-- **AI:** Azure OpenAI, GPT-4, Claude AI, Llama, smartrag, RAG, Quadrent
+- **AI:** Azure OpenAI, GPT-4, Claude AI, Llama, smartrag, RAG, Quadrant
 - **Architecture:** Microservices, Clean Architecture, Domain-Driven Design (DDD), SOLID Principles
 - 
 ### 🔭 Current Focus
