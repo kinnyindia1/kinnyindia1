@@ -1,6 +1,6 @@
 # Hi, I'm Kumaresan Somasundaram 👋
 
-**Senior .NET Solution Architect** | C# · .NET Core · Azure · React · Microservices
+**Senior .NET Solution Architect** | C# · .NET Core · Azure · React · Microservices - RAG
 
 I architect and modernize enterprise applications across **Aviation, Insurance, Education, Defense, Healthcare, and Finance**. With over 20 years of experience, I focus on leading technical teams and designing scalable, secure systems.
 
